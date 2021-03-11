@@ -1,6 +1,6 @@
 ### Hello, I'm Shubham Chitnis! 👋
 
-- 🔭 I’m currently working on applications of classical machine learning and computer vision
+- 🔭 I’m currently working on applications of Classical ML and Computer Vision
 - 🌱 I’m currently learning Reinforcement Learning and Statistical Inference
 - 👯 I’m looking to collaborate on Reasearch opportunities in the field of ML/vision
 - 📫 How to reach me: shubhamchitnis123@gmail.com / https://www.shubhamchitnis.com/
